@@ -5,7 +5,7 @@
 I need to make this public statement in order to push myself and develop a habit to code with ease, without going through 'conversation' in my head whether or not if this is a good time to code. Also by nature I am introverted person so sharing my progress will improve my social skills and be more engaged in Networking.
 
 ## What I am going to work on?
-#### Create blogging feature in my personal website
+#### Create blogging feature in my personal [website](https://sagdi.com)
 That means: UI for input new post - Create Back end server and authentification - Database for all posts (PostreSQL)
 
 #### Kick off **PilotYourself** project that I've been planning to create for the last couple of years.
