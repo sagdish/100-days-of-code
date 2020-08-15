@@ -1,5 +1,17 @@
 # I've joined the #100DaysOfCode Challenge
 
+
+## Why I decided to join?
+I need to make this public statement in order to push myself and develop a habit to code with ease, without going through 'conversation' in my head whether or not if this is a good time to code. Also by nature I am introverted person so sharing my progress will improve my social skills and be more engaged in Networking.
+
+## What I am going to work on?
+#### Create blogging feature in my personal website
+That means: UI for input new post - Create Back end server and authentification - Database for all posts (PostreSQL)
+
+#### Kick off **PilotYourself** project that I've been planning to create for the last couple of years.
+This projects intended to help someone who is lacking consistensy to stay on track and make progress in the long run (person like me). To define the goal and build consistency progressing toward it.
+
+
 ## Contents
 
 * [Rules](rules.md)
@@ -7,7 +19,7 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-## Translations
+<!-- ## Translations
 [বাংলা](intl/bn/README.md) - [català](intl/ca/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [italiano](intl/it/README.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [norsk](intl/no/README.md) –  [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [українська](intl/ua/README-ua.md) - [ελληνικά](intl/el/README.md) - [srpski](intl/sr/README-sr.md)
 
 If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
@@ -54,4 +66,4 @@ I recommend that you commit to no more than 2-3 challenges at a time, ideally 2.
 ## Note
 
 * If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
-* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) and forking it :)
+* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) and forking it :) -->

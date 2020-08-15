@@ -13,17 +13,6 @@ August 15th, 2020.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
 5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
 
-## Why I decided to join?
-I need to make this public in order to push myself and develop a habit to code with ease, without going through 'conversation' in my head whether or not this is a good time to code. Also by nature I am introverted person so sharing my progress will improve my social skills and be more engaged in Networking.
-
-## What I am going to work on?
-#### Create blogging feature in my personal website
-That means: UI for input new post - Create Back end server and authentification - Database for all posts (PostreSQL)
-
-#### Kick off **PilotYourself** project that I've been planning to create for the last couple of years.
-This projects intended to help someone who is lacking consistensy to stay on track and make progress in the long run (person like me). To define the goal and build consistency progressing toward it.
-
-
 
 <!-- ## Ideas to make this challenge more effective
 1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
