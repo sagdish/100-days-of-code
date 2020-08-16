@@ -2,20 +2,27 @@
 
 ### Day 0: August 15, 2020
 
+**Today's Progress**: Created contact form in contact me page (No functionality yet)
+
+**Thoughts:** Styled components are not that bad.. I had wrong opinion about this library. Issue is, that I need to properly place the form itself with the rest of content of the page.
+
+**Link to work:** [contact page](https://dev-portfolio-git-development.sagdi.now.sh/contact)
+
+<!-- ### Day 1: August 16, 2020
+
 **Today's Progress**: loading...
 
 **Thoughts:** loading..
 
-**Link to work:** [example website](http://www.example.com)
+**Link to work:** [example website](http://www.example.com) -->
 
-<!-- ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+<!-- ### Day 1: August 16, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: loading...
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** loading..
 
-**Link(s) to work**: [Calculator App](http://www.example.com) -->
+**Link to work:** [example website](http://www.example.com) -->
 
 
 <!-- ### Day 1: June 27, Monday
