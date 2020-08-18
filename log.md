@@ -8,13 +8,13 @@
 
 **Link to work:** [contact page](https://dev-portfolio-git-development.sagdi.now.sh/contact)
 
-<!-- ### Day 1: August 16, 2020
+### Day 1: August 16, 2020
 
-**Today's Progress**: loading...
+**Today's Progress**: Boiler plate for pilot yourself project
 
-**Thoughts:** loading..
+**Thoughts:** Alongside doing this project I'm learning ssg via Nex.js
 
-**Link to work:** [example website](http://www.example.com) -->
+**Link to work:** [github repo](https://github.com/sagdish/pilot-yourself)
 
 <!-- ### Day 1: August 16, 2020
 
