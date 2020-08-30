@@ -1,20 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 0: August 15, 2020
+### Day 0: August 29, 2020
+
+**Today's Progress**: Created fully functional Vanila JS carousel
+
+**Thoughts:** It is allways good to create something with pure JS without framework or any libraries
+
+<!-- ### Day 0: August 15, 2020
 
 **Today's Progress**: Created contact form in contact me page (No functionality yet)
 
 **Thoughts:** Styled components are not that bad.. I had wrong opinion about this library. Issue is, that I need to properly place the form itself with the rest of content of the page.
 
-**Link to work:** [contact page](https://dev-portfolio-git-development.sagdi.now.sh/contact)
+**Link to work:** [contact page](https://dev-portfolio-git-development.sagdi.now.sh/contact) -->
 
-### Day 1: August 16, 2020
+<!-- ### Day 1: August 16, 2020
 
 **Today's Progress**: Boiler plate for pilot yourself project
 
 **Thoughts:** Alongside doing this project I'm learning ssg via Nex.js
 
-**Link to work:** [github repo](https://github.com/sagdish/pilot-yourself)
+**Link to work:** [github repo](https://github.com/sagdish/pilot-yourself) -->
 
 <!-- ### Day 1: August 16, 2020
 
@@ -23,7 +29,6 @@
 **Thoughts:** loading..
 
 **Link to work:** [example website](http://www.example.com) -->
-
 
 <!-- ### Day 1: June 27, Monday
 
