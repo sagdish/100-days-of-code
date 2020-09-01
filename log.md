@@ -6,13 +6,17 @@
 
 **Thoughts:** It is allways good to create something with pure JS without framework or any libraries
 
-<!-- ### Day 0: August 15, 2020
+### Day 1: August 31, 2020
 
-**Today's Progress**: Created contact form in contact me page (No functionality yet)
+**Today's Progress**: Worked on advance concepts of ***this*** in javascript and how to use it in conjunction with call, apply and bind methods.
 
-**Thoughts:** Styled components are not that bad.. I had wrong opinion about this library. Issue is, that I need to properly place the form itself with the rest of content of the page.
+**Thoughts:** Everything in JS is lexically scoped unless in case of ***this***.
+Methods are properties of objects. When method contains function declaration and when we call it no longer 'belongs' to an object where it lexically scoped, basically ***window*** object calls this function.
 
-**Link to work:** [contact page](https://dev-portfolio-git-development.sagdi.now.sh/contact) -->
+
+***Bind*** gotcha: object you pass inside first argument in bind will sorta 'own' this method
+
+**Notes:** [link](https://github.com/sagdish/100-days-of-code-notebook/blob/master/playing.js)
 
 <!-- ### Day 1: August 16, 2020
 
