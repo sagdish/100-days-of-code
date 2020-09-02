@@ -8,23 +8,22 @@
 
 ### Day 1: August 31, 2020
 
-**Today's Progress**: Worked on advance concepts of ***this*** in javascript and how to use it in conjunction with call, apply and bind methods.
+**Today's Progress**: Worked on advance concepts of **_this_** in javascript and how to use it in conjunction with call, apply and bind methods.
 
-**Thoughts:** Everything in JS is lexically scoped unless in case of ***this***.
-Methods are properties of objects. When method contains function declaration and when we call it no longer 'belongs' to an object where it lexically scoped, basically ***window*** object calls this function.
+**Thoughts:** Everything in JS is lexically scoped unless in case of **_this_**.
+Methods are properties of objects. When method contains function declaration and when we call it no longer 'belongs' to an object where it lexically scoped, basically **_window_** object calls this function.
 
-
-***Bind*** gotcha: object you pass inside first argument in bind will sorta 'own' this method
+**_Bind_** gotcha: object you pass inside first argument in bind will sorta 'own' this method
 
 **Notes:** [link](https://github.com/sagdish/100-days-of-code-notebook/blob/master/playing.js)
 
-<!-- ### Day 1: August 16, 2020
+### Day 2: September 1st, 2020
 
-**Today's Progress**: Boiler plate for pilot yourself project
+**Today's Progress**: Breathing app 4-7-8 technique
 
-**Thoughts:** Alongside doing this project I'm learning ssg via Nex.js
+**Thoughts:** implemented via vanila JS, with traversy media based tutorial, expanded with custom intervals, and with 4-7-8 approach. Next step will be doing Start/Stop buttons. Most likely will re-do this with React
 
-**Link to work:** [github repo](https://github.com/sagdish/pilot-yourself) -->
+**Link to work:** [github repo](https://github.com/sagdish/100-days-of-code-notebook/tree/master/breathing-app)
 
 <!-- ### Day 1: August 16, 2020
 
