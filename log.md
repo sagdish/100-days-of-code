@@ -25,6 +25,14 @@ Methods are properties of objects. When method contains function declaration and
 
 **Link to work:** [github repo](https://github.com/sagdish/100-days-of-code-notebook/tree/master/breathing-app)
 
+### Day 3: September 3rd, 2020
+
+**Today's Progress**: Breathing app 4-7-8, added countdowm timer, some hickups, but progressing
+
+**Thoughts:** Step closer to start/stop. Today added setinterval, which will update seconds countdown on the screen
+
+**Link to work:** [github repo](https://github.com/sagdish/100-days-of-code-notebook/tree/master/breathing-app)
+
 <!-- ### Day 1: August 16, 2020
 
 **Today's Progress**: loading...
