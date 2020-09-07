@@ -41,6 +41,14 @@ Methods are properties of objects. When method contains function declaration and
 
 **Link to work:** [github repo](https://github.com/sagdish/100-days-of-code-notebook/tree/master/breathing-app)
 
+### Day 5: September 6th, 2020
+
+**Today's Progress**: Breathing app 4-7-8, figured out how to stop cycle, counters, animations alltogether
+
+**Thoughts:** was eye opening to use array for clearing timeouts and another array to clear intervals
+
+**Link to work:** [github repo](https://github.com/sagdish/100-days-of-code-notebook/tree/master/breathing-app)
+
 <!-- ### Day 1: August 16, 2020
 
 **Today's Progress**: loading...
