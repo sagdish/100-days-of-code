@@ -49,6 +49,14 @@ Methods are properties of objects. When method contains function declaration and
 
 **Link to work:** [github repo](https://github.com/sagdish/100-days-of-code-notebook/tree/master/breathing-app)
 
+### Day 6: September 8th, 2020
+
+**Today's Progress**: Breathing app 4-7-8, pointer animation works in sync with cycles. Debugging
+
+**Thoughts:** relatively simple app got so complex
+
+**Link to work:** [github repo](https://github.com/sagdish/100-days-of-code-notebook/tree/master/breathing-app)
+
 <!-- ### Day 1: August 16, 2020
 
 **Today's Progress**: loading...
