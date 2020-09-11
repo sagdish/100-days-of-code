@@ -57,6 +57,15 @@ Methods are properties of objects. When method contains function declaration and
 
 **Link to work:** [github repo](https://github.com/sagdish/100-days-of-code-notebook/tree/master/breathing-app)
 
+### Day 7: September 10th, 2020
+
+**Today's Progress**: Breathing app 4-7-8, finished w/o sounds
+
+**Thoughts:** this was hard but rewarding
+
+**Link to work:** [github repo](https://github.com/sagdish/100-days-of-code-notebook/tree/master/breathing-app)
+[website](https://breathing-app.sagdi.vercel.app/)
+
 <!-- ### Day 1: August 16, 2020
 
 **Today's Progress**: loading...
