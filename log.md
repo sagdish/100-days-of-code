@@ -75,6 +75,22 @@ Methods are properties of objects. When method contains function declaration and
 
 **Link to work:** [github repo](https://github.com/sagdish/code-notebook/tree/master/fm-design-systems)
 
+### Day 9: September 15th, 2020
+
+**Today's Progress**: Work on Design systems course on FM, Button states learn
+
+**Thoughts:** onfocus, active states of the button is still confusing
+
+**Link to work:** [github repo](https://github.com/sagdish/code-notebook/tree/master/fm-design-systems)
+
+### Day 10: September 16th, 2020
+
+**Today's Progress**: work on graphs, via python
+
+**Thoughts:** Graph data structure feel unnatural, pushing...
+
+**Link to work:** [github repo](https://github.com/sagdish/Graphs-1)
+
 <!-- ### Day 1: August 16, 2020
 
 **Today's Progress**: loading...
